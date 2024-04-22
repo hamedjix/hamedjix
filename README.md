@@ -2,7 +2,7 @@
 
 **`Frontend Developer (React | Next.js)`**
 
-Self-Taught Frontend Developer with +3 years proven experience, Enjoy helping companies create and maintain a better code base for reusability. highly motivated, passionate and fast learner who strives towards new experiences. Well experienced in working with tables , charts , realtime data and different useful react packages out there.
+Self-Taught Frontend Developer, Enjoy helping companies create and maintain a better code base for reusability. highly motivated, passionate and fast learner who strives towards new experiences. Well experienced in React and Typescript. Improving my backend related skills.
 
 ---
 
